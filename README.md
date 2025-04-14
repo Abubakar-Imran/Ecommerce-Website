@@ -9,7 +9,7 @@ Welcome to the **E-commerce Website** repository! This is the official repositor
 - [Contributing](#contributing)
 
 ## Demo
-You can explore a live demo of the CODSOFT E-commerce Website by visiting [here](https://abubakar-imran.github.io/CODSOFT-Ecommerce-Website/).
+You can explore a live demo of the **NexGen Homeware** E-commerce Website by visiting [here](https://abubakar-imran.github.io/CODSOFT-Ecommerce-Website/).
 
 ## Features
 - User-friendly and customizable e-commerce platform.
@@ -27,7 +27,7 @@ You can explore a live demo of the CODSOFT E-commerce Website by visiting [here]
 4. Customize the website's appearance and functionality to meet your specific needs.
 
 ## Contributing
-We welcome contributions from the open-source community to enhance the CODSOFT E-commerce Website. If you'd like to contribute, please follow these steps:
+We welcome contributions from the open-source community to enhance the **NexGen Homeware** E-commerce Website. If you'd like to contribute, please follow these steps:
 
 1. Fork the repository.
 2. Create a new branch for your feature or bug fix.
@@ -37,4 +37,4 @@ We welcome contributions from the open-source community to enhance the CODSOFT E
 
 ---
 
-Thank you for choosing the CODSOFT E-commerce Website for your online store. If you have any questions, feedback, or issues, please [open an issue](https://github.com/Abubakar-Imran/CODSOFT-Ecommerce-Website/issues). We hope you have a successful and enjoyable e-commerce experience!
+Thank you for choosing the **NexGen Homeware** E-commerce Website for your online store. If you have any questions, feedback, or issues, please [open an issue](https://github.com/Abubakar-Imran/NexGen Homeware-Ecommerce-Website/issues). We hope you have a successful and enjoyable e-commerce experience!
